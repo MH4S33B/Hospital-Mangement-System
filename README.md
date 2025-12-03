@@ -17,10 +17,10 @@ A console-based Hospital Management System built in C++ to efficiently manage pa
 ✔ Clean console UI with menu navigation
 
 ## 🚀 Getting Started
-###Prerequisites
+### Prerequisites
 C++ compiler (GCC, Clang, or MSVC)
 
-###Compilation & Execution
+### Compilation & Execution
 ```bash
     g++ hospital_management.cpp -o hospital_management
     ./hospital_management
